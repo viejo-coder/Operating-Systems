@@ -6,3 +6,11 @@ A very important function for OS is to Administer Security;
     -Controls what software can run in the OS.
         -Modern OS now checks for valid Windows Encrypted signatures on any application.  It will recommend to not install untrusted software.
     -Controls at what time and in what location can the computer be used.
+
+Function 2:
+Another important function of OS is to handle OS updates:
+    -Practically every modern OS handles updates in an automatic fashion.
+    -Automatic updates is the best way to manage patching of security exploits.
+    -OS reliability improvements are also distributed through this process.
+    -The second best case is to update manually.  However, that opens room for infections if the update is not applied in timely fashion.
+
