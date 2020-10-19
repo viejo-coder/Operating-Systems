@@ -1,0 +1,8 @@
+Function1:
+A very important function for OS is to Administer Security;
+    -OS Security controls who can use the computing resource.
+        -The Administrator of the computer creates user accounts granting access.
+        -Depending on the account privilege, the user could/could not use or install certain hardware or software.
+    -Controls what software can run in the OS.
+        -Modern OS now checks for valid Windows Encrypted signatures on any application.  It will recommend to not install untrusted software.
+    -Controls at what time and in what location can the computer be used.
